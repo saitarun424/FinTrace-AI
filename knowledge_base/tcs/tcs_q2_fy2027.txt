@@ -1,0 +1,49 @@
+COMPANY: Tata Consultancy Services Limited
+COMPANY_SHORT_NAME: TCS
+DOCUMENT_TYPE: Quarterly Earnings Release
+REPORTING_PERIOD: Q2 Fiscal Year 2027
+QUARTER_END_DATE: September 30, 2026
+PUBLICATION_DATE: October 8, 2026
+SOURCE_TYPE: Official company investor relations release
+SOURCE_URL: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q2-fy-2027
+
+FINANCIAL RESULTS
+
+1. Revenue
+Consolidated revenue for Q2 FY2027 was US$7,642 million.
+Revenue for Q2 FY2026 was US$7,466 million.
+Year-over-year revenue growth was 2.4% in US dollars.
+Quarter-over-quarter revenue growth was 0.2% in US dollars.
+
+2. Operating Margin
+The operating margin for Q2 FY2027 was 24.0%.
+
+3. Net Profit
+Net profit for Q2 FY2027 was US$1,450 million.
+Net profit for Q2 FY2026 was US$1,464 million.
+
+4. Annualized AI Revenue
+Annualized AI revenue reached US$3.1 billion in Q2 FY2027.
+The company stated that this exceeded 10% of revenue.
+
+5. Total Contract Value
+Total Contract Value of deals signed during Q2 FY2027 was US$9.6 billion.
+
+6. Net Cash from Operations
+Net cash from operations was US$1.48 billion.
+This represented 102.2% of net income, as reported by TCS.
+
+7. Dividend
+TCS declared a second interim dividend of ₹12 per equity share.
+The company announced October 14, 2026, as the record date and October 30, 2026, as the payment date.
+
+IMPORTANT INTERPRETATION RULES
+
+- These results are for Tata Consultancy Services Limited, not Tata Group as a whole.
+- Distinguish revenue from net profit.
+- Distinguish operating margin from net margin.
+- Revenue growth in US dollars and constant currency growth are different measures.
+- Do not mix US-dollar figures with Indian-rupee figures.
+- Preserve the reporting period when answering financial questions.
+- Do not treat Total Contract Value as recognized quarterly revenue.
+- If information is unavailable in this document, say so rather than inventing a figure.

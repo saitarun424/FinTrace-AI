@@ -1,0 +1,55 @@
+COMPANY: Jio Platforms Limited
+DOCUMENT_TYPE: Annual Financial Results
+REPORTING_PERIOD: Financial Year 2025-2026
+PERIOD_START: April 1, 2025
+PERIOD_END: March 31, 2026
+PUBLICATION_DATE: April 24, 2026
+CURRENCY: Indian rupees (INR)
+UNIT: Indian rupees crore
+SOURCE_TYPE: Official company financial results
+SOURCE_URL: https://www.jio.com/about/investor-relations/financials/
+
+FINANCIAL RESULTS
+
+1. Revenue from Operations
+
+Consolidated revenue from operations for FY2025-26 was ₹146,885 crore.
+Consolidated revenue from operations for FY2024-25 was ₹128,218 crore.
+Year-over-year growth was approximately 14.6%.
+
+2. EBITDA
+
+Consolidated EBITDA for FY2025-26 was ₹76,255 crore.
+Consolidated EBITDA for FY2024-25 was ₹64,170 crore.
+Year-over-year growth was approximately 18.8%.
+
+3. EBITDA Margin
+
+The consolidated EBITDA margin for FY2025-26 was 51.9%.
+The consolidated EBITDA margin for FY2024-25 was approximately 50.0%.
+
+4. Profit After Tax
+
+Consolidated profit after tax for FY2025-26 was ₹30,049 crore.
+Consolidated profit after tax for FY2024-25 was ₹26,109 crore.
+Year-over-year growth was approximately 15.1%.
+
+5. Customer Base
+
+Reliance Jio Infocomm Limited served 524.4 million customers in India as of March 31, 2026.
+
+This customer-base figure refers to the licensed operating entity, Reliance Jio Infocomm Limited (RJIL).
+
+IMPORTANT INTERPRETATION RULES
+
+* This document reports consolidated financial information for Jio Platforms Limited.
+* The customer count specifically refers to Reliance Jio Infocomm Limited.
+* Do not treat Jio Platforms Limited and Reliance Jio Infocomm Limited as interchangeable reporting entities.
+* Revenue from operations, EBITDA, and profit after tax are different financial metrics.
+* Do not confuse gross revenue with revenue from operations.
+* The financial period ends on March 31, 2026.
+* The currency is Indian rupees, and financial amounts are expressed in crore.
+* Do not compare these figures directly with US-dollar figures without a stated currency conversion.
+* Year-over-year comparisons refer to FY2025-26 versus FY2024-25.
+* If a requested metric is absent from this document, say so instead of inventing a figure.
+* Customer count is an operating metric, not a financial metric.

@@ -1,0 +1,73 @@
+COMPANY: Microsoft Corporation
+DOCUMENT_TYPE: Quarterly Earnings Release
+REPORTING_PERIOD: Q1 Fiscal Year 2027
+QUARTER_END_DATE: September 30, 2026
+PUBLICATION_DATE: October 28, 2026
+CURRENCY: US dollars (USD)
+SOURCE_TYPE: Official company investor relations release
+SOURCE_URL: https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast
+
+FINANCIAL RESULTS
+
+1. Total Revenue
+
+Microsoft reported total revenue of $92.279 billion in Q1 FY2027.
+Revenue in Q1 FY2026 was $77.673 billion.
+Year-over-year revenue growth was 19%.
+
+2. Operating Income
+
+Operating income was $45.915 billion in Q1 FY2027.
+Operating income in Q1 FY2026 was $37.961 billion.
+Year-over-year operating income growth was 21%.
+
+3. Net Income
+
+GAAP net income was $36.629 billion in Q1 FY2027.
+GAAP net income in Q1 FY2026 was $27.747 billion.
+Year-over-year GAAP net income growth was 32%.
+
+Non-GAAP net income was $36.422 billion in Q1 FY2027.
+Non-GAAP net income in Q1 FY2026 was $30.833 billion.
+Year-over-year non-GAAP net income growth was 18%.
+
+4. Diluted Earnings Per Share
+
+GAAP diluted earnings per share were $4.92 in Q1 FY2027.
+GAAP diluted earnings per share were $3.72 in Q1 FY2026.
+
+Non-GAAP diluted earnings per share were $4.89 in Q1 FY2027.
+Non-GAAP diluted earnings per share were $4.13 in Q1 FY2026.
+
+5. Microsoft Cloud Revenue
+
+Microsoft Cloud revenue was $63.9 billion in Q1 FY2027.
+It increased by 30% year over year.
+The constant-currency growth rate was 31%.
+
+Microsoft Cloud revenue is a business metric and should not be confused with total company revenue.
+
+6. Azure Revenue
+
+Azure revenue was $33.165 billion in Q1 FY2027.
+Azure revenue was $22.384 billion in Q1 FY2026.
+Azure revenue increased by 48% year over year.
+
+7. Other Business Highlights
+
+Revenue in Agents and Infra was $76.795 billion.
+Revenue in Devices and Consumer was $15.484 billion.
+Microsoft returned $10.2 billion to shareholders through dividends and share repurchases during the quarter.
+
+IMPORTANT INTERPRETATION RULES
+
+* GAAP and non-GAAP figures are different measures. Never mix them.
+* Non-GAAP figures adjust for the impact of investments in OpenAI.
+* Revenue and net income are different financial metrics.
+* Microsoft Cloud revenue is different from total company revenue.
+* Azure revenue is a separate product and service offering metric.
+* Always specify the fiscal quarter and currency.
+* Treat year-over-year growth as a comparison with the corresponding quarter of the previous fiscal year.
+* Do not invent figures when the source does not provide them.
+* Financial statement figures are reported in millions of USD in the original release; the values above are converted to billions where appropriate.
+* Distinguish reported results from management forecasts.

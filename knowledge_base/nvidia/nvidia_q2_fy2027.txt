@@ -1,0 +1,44 @@
+COMPANY: NVIDIA Corporation
+DOCUMENT_TYPE: Quarterly Earnings Release
+REPORTING_PERIOD: Q2 Fiscal Year 2027
+QUARTER_END_DATE: July 26, 2026
+PUBLICATION_DATE: August 26, 2026
+CURRENCY: US dollars (USD)
+SOURCE_TYPE: Official company investor relations release
+SOURCE_URL: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/
+
+FINANCIAL RESULTS
+
+1. Total Revenue
+NVIDIA reported revenue of $96.221 billion in Q2 FY2027.
+Revenue in Q2 FY2026 was $46.743 billion.
+Year-over-year revenue growth was 106%.
+Quarter-over-quarter revenue growth was 18%.
+
+2. Data Center Revenue
+Data Center revenue was approximately $89.0 billion in Q2 FY2027.
+It increased by 117% compared with the same quarter of the previous fiscal year.
+
+3. GAAP Gross Margin
+GAAP gross margin was 75.0% in Q2 FY2027.
+GAAP gross margin was 72.4% in Q2 FY2026.
+
+4. GAAP Net Income
+GAAP net income was $59.688 billion in Q2 FY2027.
+GAAP net income was $26.422 billion in Q2 FY2026.
+
+5. GAAP Diluted Earnings Per Share
+GAAP diluted earnings per share were $2.46 in Q2 FY2027.
+GAAP diluted earnings per share were $1.08 in Q2 FY2026.
+
+6. Revenue Outlook
+NVIDIA expected revenue of $108.0 billion, plus or minus 2%, for Q3 FY2027.
+This is management's outlook, not a confirmed actual result.
+
+IMPORTANT INTERPRETATION RULES
+
+- Do not confuse GAAP figures with non-GAAP figures.
+- Do not describe a forecast as an actual financial result.
+- Always include the reporting period and currency when answering financial questions.
+- When comparing two periods, clearly identify which period each figure belongs to.
+- If the source does not contain the requested information, say that the available source does not provide it.
